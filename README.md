@@ -25,6 +25,9 @@ npm install
 Sau khi cài đặt, bạn có thể chạy dự án bằng cách sử dụng:
 npm start
 
+FRONTEND ( REACT ) : https://github.com/NeyuD96155?tab=repositories
+BACKEND  ( SPRING BOOT ) :   https://github.com/LVQT-ss/be_Timeshare
+
 ## Hướng Dẫn Sử Dụng
 Bạn truy cập trang web 4Rent.tech và đăng kí với vai trò là một người thuê để có thể đặt chỗ cho các kì nghỉ của mình hoặc bạn có thể đăng kí dưới vai trò là một chủ sở hữu để chia sẻ cho mọi người căn hộ nghỉ dưỡng mà bạn sở hữu. Các hướng dẫn chi tiết hơn đã được cập nhật tại phần [Hướng dẫn](http://4rent.tech/Guides).
 
