@@ -31,8 +31,6 @@ BACKEND  ( SPRING BOOT ) :   https://github.com/LVQT-ss/be_Timeshare
 ## Hướng Dẫn Sử Dụng
 Bạn truy cập trang web 4Rent.tech và đăng kí với vai trò là một người thuê để có thể đặt chỗ cho các kì nghỉ của mình hoặc bạn có thể đăng kí dưới vai trò là một chủ sở hữu để chia sẻ cho mọi người căn hộ nghỉ dưỡng mà bạn sở hữu. Các hướng dẫn chi tiết hơn đã được cập nhật tại phần [Hướng dẫn](http://4rent.tech/Guides).
 
-## Đóng Góp
-Mọi đóng góp và ý kiến có thể thông qua [4Rent](https://github.com/NeyuD96155/4Rent), hãy cùng [Thảo luận](https://github.com/NeyuD96155/4Rent/discussions) để nâng cấp và cải tiến cho 4Rent.
 
 ## Liên Hệ
 [Ấn vào đây](https://github.com/NeyuD96155/4Rent/discussions/categories/q-a) để đặt câu hỏi và cùng thảo luận với cộng đồng 4Rent.
